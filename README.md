@@ -1,5 +1,5 @@
 # MiniProject
-# Voyage Consultant
+# Bon-Voyage
 
 **Name of Student:** Ashiq A
 
