@@ -1,46 +1,54 @@
-# MiniProject
-# Bon-Voyage
+# ClearView Guard
 
-**Name of Student:** Ashiq A
+**Name of Student:** [Your Name]
 
-**Name of Project:** Voyage Consultant
+**Name of Project:** ClearView Guard
 
-**Project's Purpose or Goal:** Voyage Consultant is a web app designed to provide users with a unique and interactive way to explore and learn about different locations on a map. By integrating Chat AI with map functionalities, users can click on specific spots on the map to generate information about that location. The app also allows users to make custom queries to the AI for more personalized responses.
+**Project's Purpose or Goal:** ClearView Guard is an innovative project aimed at enhancing autonomous driving perception by integrating advanced image restoration and object detection technologies. Leveraging state-of-the-art algorithms, ClearView Guard ensures clear visibility and accurate object detection even in adverse weather conditions, thereby enhancing safety and reliability in autonomous driving systems.
 
 ## Minimum Viable Product (MVP) Features
 
-1. **Google Maps Integration:**
-   - Utilize Google Maps API to display an interactive map.
+1. **Image Restoration:**
+   - Utilize the Feature Fusion Attention Network (FFAN) to remove haze and enhance image quality.
 
-2. **Map Interaction:**
-   - Allow users to click on the map to create markers.
+2. **Object Detection:**
+   - Employ You Only Look Once (YOLO) for real-time object detection, including vehicles and obstacles.
 
-3. **Location Information:**
-   - Log the coordinates of the clicked spot and generate an address based on those coordinates.
+3. **Data Processing:**
+   - Orchestrate complex data pipelines using Apache Airflow for efficient data processing and real-time performance optimization.
 
-4. **Sidebar Display:**
-   - Create a sidebar to display information about the selected location.
+4. **Scalability:**
+   - Leverage cloud computing resources on AWS (Amazon Web Services) for scalable and reliable computation.
 
-5. **Chat AI Integration:**
-   - Make a query to Open AI's Chat GPT API to provide responses based on the location's address.
+5. **Docker Integration:**
+   - Provide containerization support using Docker for easy deployment and portability.
 
 ## Tools and Technologies
 
-- **Frontend:**
-  - React
-  - React-Google-Maps-API
-  - Axios
+- **Image Restoration:**
+  - Feature Fusion Attention Network (FFAN)
 
-- **Backend:**
-  - Node-Fetch
+- **Object Detection:**
+  - You Only Look Once (YOLO)
 
-- **AI Integration:**
-  - Open AI API
+- **Data Processing:**
+  - Apache Airflow/kafka
+
+- **Programming Languages:**
+  - Python
+
+- **Libraries/Frameworks:**
+  - TensorFlow
+  - OpenCV
+
+- **Cloud Platform:**
+  - AWS (Amazon Web Services)
+
+- **Containerization:**
+  - Docker
+
+- **Version Control:**
+  - Git
 
 - **Code Quality:**
   - Eslint
-
-
-
-
-
