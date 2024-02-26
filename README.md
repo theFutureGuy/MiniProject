@@ -1,6 +1,6 @@
 # ClearView Guard
 
-**Name of Student:** [Your Name]
+**Name of Student:** Ashiq A
 
 **Name of Project:** ClearView Guard
 
