@@ -31,11 +31,11 @@
 - **Object Detection:**
   - You Only Look Once (YOLO)
 
-- **Data Processing:**
-  - Apache Airflow/kafka
+- **Data Streaming:**
+  - Apache kafka
 
 - **Programming Languages:**
-  - Python
+  - Python/Pytorch
 
 - **Libraries/Frameworks:**
   - TensorFlow
